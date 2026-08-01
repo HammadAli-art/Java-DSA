@@ -1,12 +1,13 @@
 <div align="center">
 
-# 🧠 DSA Journey — Daily LeetCode Grind
+# ☕ DSA Journey — Daily LeetCode Grind in Java
 
 ### Documenting my Data Structures & Algorithms learning, one problem a day.
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/YOUR_USERNAME)
-[![GitHub Streak](https://img.shields.io/badge/GitHub-Daily%20Commits-black?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Hammad-Babar/)
+[![GitHub Streak](https://img.shields.io/badge/GitHub-Daily%20Commits-black?style=for-the-badge&logo=github)](https://github.com/HammadAli-art/Java-DSA)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hammad-babar-203066351/)
+[![Java](https://img.shields.io/badge/Language-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/HammadAli-art/Java-DSA)
 
 </div>
 
@@ -14,25 +15,17 @@
 
 ## 📌 About This Repo
 
-This repository is my personal log of solving **LeetCode problems daily** as I learn **Data Structures & Algorithms (DSA)**.
+This repository is my personal log of solving **LeetCode problems daily** as I learn **Data Structures & Algorithms (DSA) using Java**.
 Every solved problem is committed here with clean, commented code — tracking not just the solution, but the *approach*, *time complexity*, and *lessons learned*.
 
 > 🎯 **Goal:** Build strong problem-solving skills, master core DSA concepts, and stay consistent through daily practice.
 
 ---
 
-## 📊 Progress Tracker
+## 📊 LeetCode Stats
 
-| Metric | Count |
-|---|---|
-| ✅ Problems Solved | `XX` |
-| 🔥 Current Streak | `XX days` |
-| 📅 Started On | `DD/MM/YYYY` |
-| 🏷️ Difficulty (Easy / Medium / Hard) | `XX / XX / XX` |
-
-<!-- Optional: LeetCode stats card (auto-updates) -->
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_USERNAME?theme=dark&font=baloo2&ext=heatmap" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/Hammad-Babar?theme=dark&font=baloo2&ext=heatmap" alt="LeetCode Stats" />
 </div>
 
 ---
@@ -65,16 +58,16 @@ Every solved problem is committed here with clean, commented code — tracking n
 
 ```
 
-DSA-Journey/
+Java-DSA/
 │
 ├── Arrays/
-│   ├── two-sum.py
+│   ├── TwoSum.java
 │   └── README.md
 ├── LinkedList/
-│   ├── reverse-linked-list.py
+│   ├── ReverseLinkedList.java
 │   └── README.md
 ├── DynamicProgramming/
-│   ├── climbing-stairs.py
+│   ├── ClimbingStairs.java
 │   └── README.md
 ├── Graphs/
 │   └── ...
@@ -83,40 +76,8 @@ DSA-Journey/
 ```
 
 Each folder contains:
-- 📄 Solution files (named after the problem)
+- 📄 Solution files (named after the problem, in Java)
 - 📝 Notes on approach, intuition, and complexity (in that folder's README or as code comments)
-
----
-
-## 📅 Daily Log
-
-| Date | Problem | Difficulty | Topic | Solution |
-|---|---|---|---|---|
-| DD/MM | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | Array/Hashing | [Link](./Arrays/two-sum.py) |
-| DD/MM | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 🟢 Easy | Stack | [Link](./Stacks/valid-parentheses.py) |
-| ... | ... | ... | ... | ... |
-
-> 📌 *Updated daily — check commit history for the full trail.*
-
----
-
-## 🧩 Code Style
-
-Each solution generally follows this format:
-
-```python
-"""
-Problem: <Title & Link>
-Difficulty: <Easy/Medium/Hard>
-Approach: <Brief description of the strategy>
-Time Complexity: O(...)
-Space Complexity: O(...)
-"""
-
-def solution(...):
-    # implementation
-    pass
-```
 
 ---
 
@@ -133,10 +94,9 @@ def solution(...):
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/YOUR_USERNAME)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/YOUR_HANDLE)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Hammad-Babar/)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/HammadAli-art/Java-DSA)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hammad-babar-203066351/)
 
 </div>
 
