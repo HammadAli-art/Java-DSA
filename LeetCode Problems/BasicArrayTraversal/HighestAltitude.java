@@ -1,4 +1,12 @@
-//1732
+/*
+LeetCode 1732
+Find the Highest Altitude
+
+This problem says that we need to find
+the highest altitude reached during the trip
+using the given altitude gains.
+*/
+
 public class HighestAltitude {
     public int largestAltitude(int nums[]) {
         int currentAltitude = 0;

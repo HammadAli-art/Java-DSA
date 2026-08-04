@@ -1,4 +1,13 @@
-//1480
+/*
+LeetCode 1480
+Running Sum of 1d Array
+
+This problem says that we need to create
+a new array where each element is the
+sum of the current element and all
+previous elements.
+*/
+
 import java.util.*;
 
 class RunningSum {

@@ -1,4 +1,12 @@
-//349
+/*
+LeetCode 349
+Intersection of Two Arrays
+
+This problem says that we need to find
+the unique common elements present
+in both arrays and return them.
+*/
+
 import java.util.*;
 
 class IntersectionOfTwoArrays {

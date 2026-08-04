@@ -1,3 +1,13 @@
+/*
+LeetCode 350
+Intersection of Two Arrays II
+
+This problem says that we need to find
+the common elements present in both
+arrays. If an element appears multiple
+times, include it that many times.
+*/
+
 import java.util.*;
 
 class IntersectionOfTwoArrays_2 {

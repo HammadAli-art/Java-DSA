@@ -1,4 +1,14 @@
-//1207
+/*
+LeetCode 1207
+Unique Number of Occurrences
+
+This problem says that we need to check
+whether the frequency of every element
+in the array is unique. If any two
+elements have the same frequency,
+return false.
+*/
+
 import java.util.*;
 
 public class UniqueNumberOccurences {

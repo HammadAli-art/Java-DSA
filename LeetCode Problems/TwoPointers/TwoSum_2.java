@@ -1,3 +1,14 @@
+/*
+LeetCode 167
+Two Sum II - Input Array Is Sorted
+
+This problem says that we need to find
+the two numbers in the sorted array
+whose sum is equal to the given target
+and return their 1-based indexes, but in this problem
+index will start from one not from 0.
+*/
+
 import java.util.Arrays;
 
 class TwoSum_2 {

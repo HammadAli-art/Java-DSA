@@ -1,4 +1,11 @@
-//1920
+/*
+  LeetCode 1920 
+  Build Array from Permutation
+  This Problem Says that build a new array 
+  where each element is taken from the index 
+  specified by the current element.
+ */
+
 import java.util.Arrays;
 
 public class BuildPermutations {

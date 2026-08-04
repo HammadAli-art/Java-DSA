@@ -1,4 +1,12 @@
-//219
+/*
+LeetCode 219
+Contains Duplicate II
+
+This problem says that we need to check
+whether the same element appears again
+within a distance of k indexes.
+*/
+
 import java.util.HashMap;
 
 class ContainsDuplicate_2 {

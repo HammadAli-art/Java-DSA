@@ -1,3 +1,13 @@
+/*
+LeetCode 905
+Sort Array By Parity
+
+This problem says that we need to move
+all even numbers to the beginning of
+the array and all odd numbers to the
+end of the array.
+*/
+
 import java.util.Arrays;
 
 class SortArrayByParity {

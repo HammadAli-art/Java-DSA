@@ -1,4 +1,13 @@
-//1512
+/*
+LeetCode 1512
+Number of Good Pairs
+
+This problem says that we need to count
+how many pairs have the same value
+where the first index is less than
+the second index.
+*/
+
 public class NumberOfGoodPairs_BruteForce {
     public int pairs(int[] nums) {
         int count = 0;

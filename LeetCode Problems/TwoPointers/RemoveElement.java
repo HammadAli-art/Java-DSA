@@ -1,3 +1,13 @@
+/*
+LeetCode 27
+Remove Element
+
+This problem says that we need to remove
+all occurrences of the given value from
+the array. Return the number of remaining
+elements after modifying the array in-place.
+*/
+
 public class RemoveElement {
     public int removeElement(int nums[], int val) {
         int slow = 0;

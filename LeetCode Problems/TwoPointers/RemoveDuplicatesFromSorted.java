@@ -1,3 +1,13 @@
+/*
+LeetCode 26
+Remove Duplicates from Sorted Array
+
+This problem says that we need to remove
+the duplicate elements from a sorted array.
+Return the number of unique elements and
+store them at the beginning of the array.
+*/
+
 class RemoveDuplicatesFromSorted {
     public int remove(int nums[]) {
         int slow = 0;

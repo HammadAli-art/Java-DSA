@@ -1,3 +1,13 @@
+/*
+LeetCode 724
+Find Pivot Index
+
+This problem says that we need to find
+the index where the sum of all elements
+on the left is equal to the sum of all
+elements on the right.
+*/
+
 class PivotIndex {
     public int pivot(int[] nums) {
         int totalSum = 0;

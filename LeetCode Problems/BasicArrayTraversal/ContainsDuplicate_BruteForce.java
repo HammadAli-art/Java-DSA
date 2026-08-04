@@ -1,4 +1,10 @@
-//217
+/* 
+ LeetCode 217
+ Contains Duplicate
+ This problem says that we need to check
+ whether the array contains any duplicate element.
+ 
+*/
 
 class ContainsDuplicate_BruteForce {
     public boolean duplicate(int nums[]) {

@@ -1,3 +1,13 @@
+/*
+LeetCode 283
+Move Zeroes
+
+This problem says that we need to move
+all zeroes to the end of the array while
+keeping the relative order of the
+non-zero elements the same.
+*/
+
 import java.util.Arrays;
 
 class MoveZeroes {

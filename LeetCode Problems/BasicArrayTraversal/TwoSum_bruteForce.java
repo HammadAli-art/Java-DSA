@@ -1,3 +1,13 @@
+/*
+LeetCode 1
+Two Sum
+
+This problem says that we need to find
+the two numbers whose sum is equal
+to the given target and return
+their indexes.
+*/
+
 import java.util.Arrays;
 
 class TwoSum_bruteForce {

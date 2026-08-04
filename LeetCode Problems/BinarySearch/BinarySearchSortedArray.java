@@ -1,3 +1,13 @@
+/*
+LeetCode 704
+Binary Search
+
+This problem says that we need to find
+the index of the target element in a
+sorted array using Binary Search.
+If the target is not found, return -1.
+*/
+
 public class BinarySearchSortedArray {
     public int index(int nums[], int target) {
         int left = 0;

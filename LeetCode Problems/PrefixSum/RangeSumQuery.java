@@ -1,4 +1,14 @@
-//303
+/*
+LeetCode 303
+Range Sum Query - Immutable
+
+This problem says that we need to find
+the sum of elements between the given
+left and right indexes. Since multiple
+queries are performed, we should answer
+them efficiently.
+*/
+
 class RangeSumQuery{
     int prefix[];
     public RangeSumQuery(int nums[]){

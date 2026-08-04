@@ -1,3 +1,12 @@
+/*
+LeetCode 136
+Single Number
+
+This problem says that every element
+appears twice except one element.
+We need to find that unique element.
+*/
+
 class UniqueElement {
 
     public int singleNumber(int nums[]) {

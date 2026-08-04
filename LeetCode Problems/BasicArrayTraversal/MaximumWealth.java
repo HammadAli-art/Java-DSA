@@ -1,4 +1,13 @@
-//1672
+/*
+LeetCode 1672
+Richest Customer Wealth
+
+This problem says that we need to find
+the total wealth of each customer by
+adding all their bank accounts and
+return the maximum wealth.
+*/
+
 class MaximumWealth {
     public int maxwealth(int[][] nums) {
         int max = 0;

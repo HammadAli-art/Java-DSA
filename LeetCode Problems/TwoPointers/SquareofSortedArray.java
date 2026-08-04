@@ -1,3 +1,12 @@
+/*
+LeetCode 977
+Squares of a Sorted Array
+
+This problem says that we need to square
+each element of the sorted array and
+return the squares in sorted order.
+*/
+
 import java.util.*;
 
 class SquareofSortedArray {

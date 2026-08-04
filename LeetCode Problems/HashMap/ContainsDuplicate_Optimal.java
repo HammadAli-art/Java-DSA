@@ -1,4 +1,13 @@
-//217
+/*
+LeetCode 217
+Contains Duplicate
+
+This problem says that we need to check
+whether the array contains any duplicate
+element. If a duplicate exists, return
+true; otherwise, return false.
+*/
+
 import java.util.HashMap;
 
 class ContainsDuplicate_Optimal {

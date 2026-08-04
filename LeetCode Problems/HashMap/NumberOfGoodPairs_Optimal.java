@@ -1,4 +1,13 @@
-//1512
+/*
+LeetCode 1512
+Number of Good Pairs
+
+This problem says that we need to count
+how many pairs have the same value
+where the first index is less than
+the second index.
+*/
+
 import java.util.HashMap;
 
 public class NumberOfGoodPairs_Optimal {
@@ -10,7 +19,7 @@ public class NumberOfGoodPairs_Optimal {
             if (m.containsKey(nums[i])) {
                 int frequency = m.get(nums[i]);
                 count += frequency;
-                frequency++;
+                
                 m.put(nums[i], frequency + 1);
             } else {
                 m.put(nums[i], 1);

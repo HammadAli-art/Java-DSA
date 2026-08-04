@@ -1,4 +1,12 @@
-//1295
+/*
+  LeetCode 1295
+  Find Numbers with Even Number of Digits
+ 
+  This problem says that we need to count
+  how many numbers in the array have
+  an even number of digits.
+ */
+
 class CountEvenDigits {
     public int findNumbers(int[] nums) {
         int evenCount = 0;

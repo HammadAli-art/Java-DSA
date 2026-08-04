@@ -1,4 +1,13 @@
-//1431
+/*
+LeetCode 1431
+Kids With the Greatest Number of Candies
+
+This problem says that we need to check
+whether each kid can have the greatest
+number of candies after getting the
+given extra candies.
+*/
+
 import java.util.*;
 
 class MaxCandies {

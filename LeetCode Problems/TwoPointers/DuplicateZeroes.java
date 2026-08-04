@@ -1,3 +1,13 @@
+/*
+LeetCode 1089
+Duplicate Zeros
+
+This problem says that we need to duplicate
+every zero in the array while keeping the
+array size the same. The remaining elements
+should be shifted to the right.
+*/
+
 import java.util.Arrays;
 
 class DuplicateZeroes {

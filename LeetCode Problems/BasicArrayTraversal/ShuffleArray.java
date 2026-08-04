@@ -1,4 +1,13 @@
-//1470
+/*
+LeetCode 1470
+Shuffle the Array
+
+This problem says that the array is divided
+into two equal parts. We need to rearrange
+the elements by taking one element from
+each part alternately.
+*/
+
 import java.util.Arrays;
 
 class ShuffleArray {

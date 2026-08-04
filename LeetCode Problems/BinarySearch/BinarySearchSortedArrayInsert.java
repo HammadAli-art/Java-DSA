@@ -1,4 +1,13 @@
-//35
+/*
+LeetCode 35
+Search Insert Position
+
+This problem says that we need to find
+the index of the target element in a
+sorted array. If the target is not found,
+return the index where it should be inserted.
+*/
+
 public class BinarySearchSortedArrayInsert {
     public int index(int nums[], int target) {
         int left = 0;

@@ -1,4 +1,10 @@
-//219
+/*
+  LeetCode 219 
+  Contains Duplicate II 
+  This Problem Says that the first and last index difference 
+  of duplicate elements is must less than k value .
+ */
+
 class ContainsDuplicate_2 {
     public boolean duplicate(int nums[], int k) {
         for (int i = 0; i < nums.length; i++) {

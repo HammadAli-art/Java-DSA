@@ -1,4 +1,13 @@
-//238
+/*
+LeetCode 238
+Product of Array Except Self
+
+This problem says that we need to return
+a new array where each element is the
+product of all other elements except
+the element at the current index.
+*/
+
 import java.util.Arrays;
 
 class ProductOfArrayExceptItSelf {
