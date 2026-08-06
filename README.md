@@ -35,20 +35,7 @@ Every solved problem is committed here with clean, commented code — tracking n
 <summary><b>Click to expand topic checklist</b></summary>
 
 <!-- AUTO-TOPICS:START -->
-- [ ] Arrays & Strings
-- [ ] Hashing
-- [ ] Two Pointers & Sliding Window
-- [ ] Linked List
-- [ ] Stacks & Queues
-- [ ] Recursion & Backtracking
-- [ ] Binary Search
-- [ ] Trees (Binary Tree, BST)
-- [ ] Heaps / Priority Queue
-- [ ] Graphs (BFS, DFS, Union-Find)
-- [ ] Dynamic Programming
-- [ ] Greedy Algorithms
-- [ ] Trie
-- [ ] Bit Manipulation
+
 <!-- AUTO-TOPICS:END -->
 
 </details>
@@ -57,7 +44,11 @@ Every solved problem is committed here with clean, commented code — tracking n
 
 ## 📈 Auto-Generated Progress
 <!-- AUTO-STATS:START -->
-(this will be filled in automatically on first run)
+**Total Solved:** 22
+
+| Easy | Medium | Hard |
+|------|--------|------|
+| 1 | 0 | 0 |
 <!-- AUTO-STATS:END -->
 ## 📁 Folder Structure
 
