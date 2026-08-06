@@ -31,10 +31,10 @@ Every solved problem is committed here with clean, commented code — tracking n
 ---
 
 ## 🗂️ Topics Covered
-
 <details>
 <summary><b>Click to expand topic checklist</b></summary>
 
+<!-- AUTO-TOPICS:START -->
 - [ ] Arrays & Strings
 - [ ] Hashing
 - [ ] Two Pointers & Sliding Window
@@ -49,11 +49,16 @@ Every solved problem is committed here with clean, commented code — tracking n
 - [ ] Greedy Algorithms
 - [ ] Trie
 - [ ] Bit Manipulation
+<!-- AUTO-TOPICS:END -->
 
 </details>
 
 ---
 
+## 📈 Auto-Generated Progress
+<!-- AUTO-STATS:START -->
+(this will be filled in automatically on first run)
+<!-- AUTO-STATS:END -->
 ## 📁 Folder Structure
 
 ```
