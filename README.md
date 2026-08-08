@@ -44,11 +44,11 @@ Every solved problem is committed here with clean, commented code — tracking n
 
 ## 📈 Auto-Generated Progress
 <!-- AUTO-STATS:START -->
-**Total Solved:** 9
+**Total Solved:** 10
 
 | Topic | Solved |
 |-------|--------|
-| HashTable | 4 |
+| HashTable | 5 |
 | BinarySearch | 2 |
 | Array | 1 |
 | SlidingWindow | 1 |
