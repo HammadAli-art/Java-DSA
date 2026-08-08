@@ -57,7 +57,7 @@ Every solved problem is committed here with clean, commented code — tracking n
 
 ## 📈 Auto-Generated Progress
 <!-- AUTO-STATS:START -->
-**Total Solved:** 75
+**Total Solved:** 76
 
 | Topic | Solved |
 |-------|--------|
@@ -70,9 +70,9 @@ Every solved problem is committed here with clean, commented code — tracking n
 | LinkedList | 4 |
 | Backtracking | 4 |
 | Simulation | 3 |
+| DynamicProgramming | 3 |
 | BasicArrayTraversal | 2 |
 | Stack | 2 |
-| DynamicProgramming | 2 |
 | Array | 1 |
 | SlidingWindow | 1 |
 | Design | 1 |
