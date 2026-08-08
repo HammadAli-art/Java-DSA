@@ -44,11 +44,11 @@ Every solved problem is committed here with clean, commented code — tracking n
 
 ## 📈 Auto-Generated Progress
 <!-- AUTO-STATS:START -->
-**Total Solved:** 1
+**Total Solved:** 2
 
 | Topic | Solved |
 |-------|--------|
-| HashTable | 1 |
+| HashTable | 2 |
 <!-- AUTO-STATS:END -->
 ## 📁 Folder Structure
 
