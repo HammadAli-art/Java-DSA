@@ -44,12 +44,13 @@ Every solved problem is committed here with clean, commented code — tracking n
 
 ## 📈 Auto-Generated Progress
 <!-- AUTO-STATS:START -->
-**Total Solved:** 24
+**Total Solved:** 25
 
 | Topic | Solved |
 |-------|--------|
 | Unknown | 22 |
 | HashTable | 2 |
+| BinarySearch | 1 |
 <!-- AUTO-STATS:END -->
 ## 📁 Folder Structure
 
