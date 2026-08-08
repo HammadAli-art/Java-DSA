@@ -57,11 +57,11 @@ Every solved problem is committed here with clean, commented code — tracking n
 
 ## 📈 Auto-Generated Progress
 <!-- AUTO-STATS:START -->
-**Total Solved:** 79
+**Total Solved:** 80
 
 | Topic | Solved |
 |-------|--------|
-| HashTable | 18 |
+| HashTable | 19 |
 | TwoPointers | 12 |
 | BinarySearch | 8 |
 | Math | 8 |
