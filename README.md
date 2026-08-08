@@ -57,28 +57,58 @@ Every solved problem is committed here with clean, commented code — tracking n
 
 ## 📈 Auto-Generated Progress
 <!-- AUTO-STATS:START -->
-**Total Solved:** 80
+**Total Solved:** 77
 
 | Topic | Solved |
 |-------|--------|
-| HashTable | 19 |
-| TwoPointers | 12 |
-| BinarySearch | 8 |
-| Math | 8 |
-| Matrix | 5 |
-| PrefixSum | 4 |
-| LinkedList | 4 |
-| Backtracking | 4 |
-| Simulation | 3 |
-| DynamicProgramming | 3 |
-| BasicArrayTraversal | 2 |
-| Stack | 2 |
-| Array | 1 |
-| SlidingWindow | 1 |
-| Design | 1 |
-| BitManipulation | 1 |
-| Depth-FirstSearch | 1 |
-| DivideandConquer | 1 |
+| BasicArrayTraversal/TwoPointers_Sorting | 5 |
+| Math | 4 |
+| BasicArrayTraversal/PrefixSum | 4 |
+| BasicArrayTraversal/TwoPointers | 4 |
+| BasicArrayTraversal | 3 |
+| BasicArrayTraversal/Matrix_Simulation | 3 |
+| BasicArrayTraversal/BinarySearch | 3 |
+| BasicArrayTraversal/BinarySearch_SlidingWindow_PrefixSum | 2 |
+| BasicArrayTraversal/Matrix | 2 |
+| BinarySearch/Interactive | 2 |
+| BasicArrayTraversal/HashTable | 2 |
+| BasicArrayTraversal/HashTable_TwoPointers_BinarySearch_Sorting | 2 |
+| BasicArrayTraversal/Simulation | 2 |
+| LinkedList/Recursion | 2 |
+| HashTable/LinkedList_TwoPointers_Floyd'sCycleFindingAlgorithm | 2 |
+| BasicArrayTraversal/Backtracking | 2 |
+| BasicArrayTraversal/Backtracking_BitManipulation | 2 |
+| BasicArrayTraversal/HashTable_DivideandConquer_Sorting_Counting_Boyer–MooreMajorityVoteAlgorithm | 1 |
+| BasicArrayTraversal/DivideandConquer_DynamicProgramming | 1 |
+| BasicArrayTraversal/DynamicProgramming | 1 |
+| String/HashTable_TwoPointers_SlidingWindow | 1 |
+| String/HashTable_SlidingWindow | 1 |
+| BasicArrayTraversal/SlidingWindow | 1 |
+| BasicArrayTraversal/HashTable_Matrix | 1 |
+| String/HashTable_Counting | 1 |
+| String/HashTable | 1 |
+| Math/NumberTheory | 1 |
+| BasicArrayTraversal/BinarySearch_TernarySearch | 1 |
+| BasicArrayTraversal/Design_PrefixSum | 1 |
+| BasicArrayTraversal/HashTable_Math_Counting | 1 |
+| BasicArrayTraversal/TwoPointers_BinarySearch | 1 |
+| BasicArrayTraversal/BitManipulation | 1 |
+| BasicArrayTraversal/HashTable_SlidingWindow | 1 |
+| BasicArrayTraversal/HashTable_Sorting | 1 |
+| BasicArrayTraversal/String_Simulation | 1 |
+| BasicArrayTraversal/Math | 1 |
+| BasicArrayTraversal/TwoPointers_DynamicProgramming_Stack_MonotonicStack | 1 |
+| BasicArrayTraversal/HashTable_Stack_MonotonicStack | 1 |
+| Stack/Design_MonotonicStack_DataStream | 1 |
+| String/Stack_BracketSequences | 1 |
+| BasicArrayTraversal/Math_Enumeration_NumberTheory_PrimalityTest_SieveTheory_PrimeNumberSieve | 1 |
+| LinkedList/Depth-FirstSearch_Doubly-LinkedList | 1 |
+| LinkedList/TwoPointers | 1 |
+| BasicArrayTraversal/Depth-FirstSearch_Breadth-FirstSearch_Matrix_Simulation | 1 |
+| String/DynamicProgramming_Backtracking | 1 |
+| Math/DynamicProgramming_Recursion_Memoization | 1 |
+| BasicArrayTraversal/HashTable_PrefixSum | 1 |
+| BasicArrayTraversal/TwoPointers_BinarySearch_BitManipulation_PigeonholePrinciple_Floyd'sCycleFindingAlgorithm | 1 |
 <!-- AUTO-STATS:END -->
 ## 📁 Folder Structure
 
