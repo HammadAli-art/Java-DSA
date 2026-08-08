@@ -57,7 +57,7 @@ Every solved problem is committed here with clean, commented code — tracking n
 
 ## 📈 Auto-Generated Progress
 <!-- AUTO-STATS:START -->
-**Total Solved:** 74
+**Total Solved:** 75
 
 | Topic | Solved |
 |-------|--------|
@@ -72,12 +72,12 @@ Every solved problem is committed here with clean, commented code — tracking n
 | Simulation | 3 |
 | BasicArrayTraversal | 2 |
 | Stack | 2 |
+| DynamicProgramming | 2 |
 | Array | 1 |
 | SlidingWindow | 1 |
 | Design | 1 |
 | BitManipulation | 1 |
 | Depth-FirstSearch | 1 |
-| DynamicProgramming | 1 |
 <!-- AUTO-STATS:END -->
 ## 📁 Folder Structure
 
