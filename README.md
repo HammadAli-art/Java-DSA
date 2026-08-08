@@ -35,7 +35,20 @@ Every solved problem is committed here with clean, commented code — tracking n
 <summary><b>Click to expand topic checklist</b></summary>
 
 <!-- AUTO-TOPICS:START -->
-
+- [x] Arrays & Strings
+- [x] Hashing
+- [x] Two Pointers & Sliding Window
+- [x] Linked List
+- [x] Stacks & Queues
+- [x] Recursion & Backtracking
+- [x] Binary Search
+- [ ] Trees (Binary Tree, BST)
+- [ ] Heaps / Priority Queue
+- [x] Graphs (BFS, DFS, Union-Find)
+- [x] Dynamic Programming
+- [ ] Greedy Algorithms
+- [ ] Trie
+- [x] Bit Manipulation
 <!-- AUTO-TOPICS:END -->
 
 </details>
@@ -44,16 +57,27 @@ Every solved problem is committed here with clean, commented code — tracking n
 
 ## 📈 Auto-Generated Progress
 <!-- AUTO-STATS:START -->
-**Total Solved:** 15
+**Total Solved:** 74
 
 | Topic | Solved |
 |-------|--------|
-| HashTable | 5 |
-| Matrix | 3 |
-| Math | 3 |
-| BinarySearch | 2 |
+| HashTable | 16 |
+| TwoPointers | 12 |
+| BinarySearch | 8 |
+| Math | 8 |
+| Matrix | 5 |
+| PrefixSum | 4 |
+| LinkedList | 4 |
+| Backtracking | 4 |
+| Simulation | 3 |
+| BasicArrayTraversal | 2 |
+| Stack | 2 |
 | Array | 1 |
 | SlidingWindow | 1 |
+| Design | 1 |
+| BitManipulation | 1 |
+| Depth-FirstSearch | 1 |
+| DynamicProgramming | 1 |
 <!-- AUTO-STATS:END -->
 ## 📁 Folder Structure
 
