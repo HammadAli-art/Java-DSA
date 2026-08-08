@@ -57,7 +57,7 @@ Every solved problem is committed here with clean, commented code — tracking n
 
 ## 📈 Auto-Generated Progress
 <!-- AUTO-STATS:START -->
-**Total Solved:** 76
+**Total Solved:** 77
 
 | Topic | Solved |
 |-------|--------|
@@ -78,6 +78,7 @@ Every solved problem is committed here with clean, commented code — tracking n
 | Design | 1 |
 | BitManipulation | 1 |
 | Depth-FirstSearch | 1 |
+| DivideandConquer | 1 |
 <!-- AUTO-STATS:END -->
 ## 📁 Folder Structure
 
