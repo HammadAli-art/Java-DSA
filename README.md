@@ -44,7 +44,7 @@ Every solved problem is committed here with clean, commented code — tracking n
 
 ## 📈 Auto-Generated Progress
 <!-- AUTO-STATS:START -->
-**Total Solved:** 27
+**Total Solved:** 28
 
 | Topic | Solved |
 |-------|--------|
@@ -52,6 +52,7 @@ Every solved problem is committed here with clean, commented code — tracking n
 | HashTable | 2 |
 | BinarySearch | 2 |
 | Array | 1 |
+| SlidingWindow | 1 |
 <!-- AUTO-STATS:END -->
 ## 📁 Folder Structure
 
