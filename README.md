@@ -44,14 +44,14 @@ Every solved problem is committed here with clean, commented code — tracking n
 
 ## 📈 Auto-Generated Progress
 <!-- AUTO-STATS:START -->
-**Total Solved:** 14
+**Total Solved:** 15
 
 | Topic | Solved |
 |-------|--------|
 | HashTable | 5 |
+| Matrix | 3 |
 | Math | 3 |
 | BinarySearch | 2 |
-| Matrix | 2 |
 | Array | 1 |
 | SlidingWindow | 1 |
 <!-- AUTO-STATS:END -->
