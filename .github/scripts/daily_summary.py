@@ -22,10 +22,10 @@ from google.oauth2.service_account import Credentials
 KARACHI = ZoneInfo("Asia/Karachi")
 COMMIT_PATTERN = re.compile(r"^Solve (\d+)\.\s*(.+)$")
 
-EMAIL_ADDRESS = os.environ["EMAIL_ADDRESS"]
-EMAIL_APP_PASSWORD = os.environ["EMAIL_APP_PASSWORD"]
-RECIPIENT_EMAIL = os.environ["RECIPIENT_EMAIL"]
-SHEET_ID = os.environ["SHEET_ID"]
+EMAIL_ADDRESS = os.environ["EMAIL_ADDRESS"].strip()
+EMAIL_APP_PASSWORD = os.environ["EMAIL_APP_PASSWORD"].strip()
+RECIPIENT_EMAIL = os.environ["RECIPIENT_EMAIL"].strip()
+SHEET_ID = os.environ["SHEET_ID"].strip()
 GOOGLE_CREDS_JSON = os.environ["GOOGLE_SHEETS_CREDENTIALS"]
 REPO = os.environ["GITHUB_REPOSITORY"]  # e.g. "HammadAli-art/Java-DSA"
 BRANCH = os.environ.get("GITHUB_REF_NAME", "master")
