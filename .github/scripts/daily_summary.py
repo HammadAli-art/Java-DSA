@@ -121,6 +121,10 @@ def log_to_sheet(problems):
 
 
 def main():
+    print(f"DEBUG: EMAIL_ADDRESS length = {len(EMAIL_ADDRESS)}")
+    print(f"DEBUG: RECIPIENT_EMAIL length = {len(RECIPIENT_EMAIL)}")
+    print(f"DEBUG: EMAIL_APP_PASSWORD length = {len(EMAIL_APP_PASSWORD)}")
+
     commits = get_todays_commits()
     problems = parse_solved_problems(commits)
 
