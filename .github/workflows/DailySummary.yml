@@ -2,9 +2,8 @@ name: Daily LeetCode Summary
 
 on:
   schedule:
-    # 18:00 UTC = 11:00 PM PKT (Pakistan is UTC+5, no daylight saving)
     - cron: '0 18 * * *'
-  workflow_dispatch: {}  # lets you trigger it manually from the Actions tab to test
+  workflow_dispatch: {}
 
 jobs:
   daily-summary:
@@ -13,7 +12,7 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0  # need full commit history, not just the latest commit
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -27,8 +26,7 @@ jobs:
         env:
           EMAIL_ADDRESS: ${{ secrets.EMAIL_ADDRESS }}
           EMAIL_APP_PASSWORD: ${{ secrets.EMAIL_APP_PASSWORD }}
-          RECIPIENT_EMAIL: ${{ secrets.RECIPENT_EMAIL }}
+          RECIPIENT_EMAIL: ${{ secrets.RECIPIENT_EMAIL }}
           SHEET_ID: ${{ secrets.SHEET_ID }}
-          GOOGLE_SHEETS_CREDENTIALS: ${{ secrets.GOOGLE_SHEET
-          _CREDENTIALS }}
+          GOOGLE_SHEETS_CREDENTIALS: ${{ secrets.GOOGLE_SHEET_CREDENTIALS }}
         run: python .github/scripts/daily_summary.py
