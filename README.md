@@ -57,7 +57,7 @@ Every solved problem is committed here with clean, commented code — tracking n
 
 ## 📈 Auto-Generated Progress
 <!-- AUTO-STATS:START -->
-**Total Solved:** 78
+**Total Solved:** 79
 
 | Topic | Solved |
 |-------|--------|
@@ -110,6 +110,7 @@ Every solved problem is committed here with clean, commented code — tracking n
 | Array/HashTable_PrefixSum | 1 |
 | Array/TwoPointers_BinarySearch_BitManipulation_PigeonholePrinciple_Floyd'sCycleFindingAlgorithm | 1 |
 | Array/Math_TwoPointers | 1 |
+| Math/BitManipulation | 1 |
 <!-- AUTO-STATS:END -->
 ## 📁 Folder Structure
 
