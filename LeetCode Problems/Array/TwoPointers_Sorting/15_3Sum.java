@@ -10,7 +10,7 @@ class Solution {
                 continue;
             }
             while (second < third) {
-                List<Integer> triplets = new ArrayList<>();
+                List<Integer> triplets = new ArrasyList<>();
                 if (nums[first] + nums[second] + nums[third] == 0) {
                     triplets.add(nums[first]);
                     triplets.add(nums[second]);
