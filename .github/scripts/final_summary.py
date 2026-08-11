@@ -56,7 +56,7 @@ def get_days_commits():
 
     result = subprocess.run(
         ["git", "log", f"--since={since_str}", f"--until={until_str}",
-         "--name-only", "--pretty=format:__COMMIT__%H|%s"],
+         "--name-status", "--pretty=format:__COMMIT__%H|%s"],
         capture_output=True, text=True, check=True,
     )
 
@@ -69,7 +69,15 @@ def get_days_commits():
             _, subject = line.replace("__COMMIT__", "", 1).split("|", 1)
             current = {"subject": subject, "files": []}
         elif line.strip():
-            current["files"].append(line.strip())
+            # format: "A\tpath" / "M\tpath" / "D\tpath" (status, tab, path)
+            parts = line.split("\t", 1)
+            if len(parts) == 2:
+                status, path = parts
+                # Only keep Added/Modified files — skip Deleted ones (e.g. the
+                # old-language file removed when a resubmit changes language),
+                # so we always link to the file that actually still exists.
+                if status.strip().startswith(("A", "M")):
+                    current["files"].append(path.strip())
     if current:
         commits.append(current)
 
