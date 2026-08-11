@@ -47,7 +47,7 @@ Every solved problem is committed here with clean, commented code — tracking n
 - [x] Hashing
 - [x] Dynamic Programming
 - [x] Backtracking
-- [ ] Greedy
+- [x] Greedy
 - [x] Binary Search
 - [x] Math
 - [x] Bit Manipulation
@@ -62,11 +62,11 @@ Every solved problem is committed here with clean, commented code — tracking n
 
 ## 📈 Auto-Generated Progress
 <!-- AUTO-STATS:START -->
-**Total Solved:** 79
+**Total Solved:** 80
 
 | Topic | Solved |
 |-------|--------|
-| Array | 57 |
+| Array | 58 |
 | Math | 6 |
 | String | 6 |
 | LinkedList | 6 |
