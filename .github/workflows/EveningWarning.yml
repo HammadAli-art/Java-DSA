@@ -1,12 +1,13 @@
-name: Daily LeetCode Summary
+name: Evening Warning Check
 
 on:
   schedule:
+    # 18:00 UTC = 11:00 PM PKT
     - cron: '0 18 * * *'
   workflow_dispatch: {}
 
 jobs:
-  daily-summary:
+  warning-check:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
@@ -19,14 +20,9 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Install dependencies
-        run: pip install gspread google-auth
-
-      - name: Run daily summary
+      - name: Run warning check
         env:
           EMAIL_ADDRESS: ${{ secrets.EMAIL_ADDRESS }}
           EMAIL_APP_PASSWORD: ${{ secrets.EMAIL_APP_PASSWORD }}
           RECIPIENT_EMAIL: ${{ secrets.RECIPIENT_EMAIL }}
-          SHEET_ID: ${{ secrets.SHEET_ID }}
-          GOOGLE_SHEETS_CREDENTIALS: ${{ secrets.GOOGLE_SHEET_CREDENTIALS }}
-        run: python .github/scripts/daily_summary.py
+        run: python .github/scripts/warning_check.py
