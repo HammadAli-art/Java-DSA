@@ -35,20 +35,25 @@ Every solved problem is committed here with clean, commented code — tracking n
 <summary><b>Click to expand topic checklist</b></summary>
 
 <!-- AUTO-TOPICS:START -->
-- [x] Arrays & Strings
-- [x] Hashing
-- [x] Two Pointers & Sliding Window
+- [x] Array
+- [x] String
 - [x] Linked List
-- [x] Stacks & Queues
-- [x] Recursion & Backtracking
-- [x] Binary Search
-- [ ] Trees (Binary Tree, BST)
-- [ ] Heaps / Priority Queue
-- [x] Graphs (BFS, DFS, Union-Find)
-- [x] Dynamic Programming
-- [ ] Greedy Algorithms
+- [x] Matrix
+- [ ] Trees
+- [ ] Graph
+- [x] Stack / Queue
+- [ ] Heap
 - [ ] Trie
+- [x] Hashing
+- [x] Dynamic Programming
+- [x] Backtracking
+- [ ] Greedy
+- [x] Binary Search
+- [x] Math
 - [x] Bit Manipulation
+- [x] Sliding Window
+- [x] Two Pointers
+- [x] Sorting
 <!-- AUTO-TOPICS:END -->
 
 </details>
@@ -61,56 +66,13 @@ Every solved problem is committed here with clean, commented code — tracking n
 
 | Topic | Solved |
 |-------|--------|
-| Array/TwoPointers_Sorting | 5 |
-| Math | 4 |
-| Array/PrefixSum | 4 |
-| Array/TwoPointers | 4 |
-| Array | 3 |
-| Array/Matrix_Simulation | 3 |
-| Array/BinarySearch | 3 |
-| Array/BinarySearch_SlidingWindow_PrefixSum | 2 |
-| Array/Matrix | 2 |
-| BinarySearch/Interactive | 2 |
-| Array/HashTable | 2 |
-| Array/HashTable_TwoPointers_BinarySearch_Sorting | 2 |
-| Array/Simulation | 2 |
-| LinkedList/Recursion | 2 |
-| HashTable/LinkedList_TwoPointers_Floyd'sCycleFindingAlgorithm | 2 |
-| Array/Backtracking | 2 |
-| Array/Backtracking_BitManipulation | 2 |
-| Array/HashTable_DivideandConquer_Sorting_Counting_Boyer–MooreMajorityVoteAlgorithm | 1 |
-| Array/DivideandConquer_DynamicProgramming | 1 |
-| Array/DynamicProgramming | 1 |
-| String/HashTable_TwoPointers_SlidingWindow | 1 |
-| String/HashTable_SlidingWindow | 1 |
-| Array/SlidingWindow | 1 |
-| Array/HashTable_Matrix | 1 |
-| String/HashTable_Counting | 1 |
-| String/HashTable | 1 |
-| Math/NumberTheory | 1 |
-| Array/BinarySearch_TernarySearch | 1 |
-| Array/Design_PrefixSum | 1 |
-| Array/HashTable_Math_Counting | 1 |
-| Array/TwoPointers_BinarySearch | 1 |
-| Array/BitManipulation | 1 |
-| Array/HashTable_SlidingWindow | 1 |
-| Array/HashTable_Sorting | 1 |
-| Array/String_Simulation | 1 |
-| Array/Math | 1 |
-| Array/TwoPointers_DynamicProgramming_Stack_MonotonicStack | 1 |
-| Array/HashTable_Stack_MonotonicStack | 1 |
-| Stack/Design_MonotonicStack_DataStream | 1 |
-| String/Stack_BracketSequences | 1 |
-| Array/Math_Enumeration_NumberTheory_PrimalityTest_SieveTheory_PrimeNumberSieve | 1 |
-| LinkedList/Depth-FirstSearch_Doubly-LinkedList | 1 |
-| LinkedList/TwoPointers | 1 |
-| Array/Depth-FirstSearch_Breadth-FirstSearch_Matrix_Simulation | 1 |
-| String/DynamicProgramming_Backtracking | 1 |
-| Math/DynamicProgramming_Recursion_Memoization | 1 |
-| Array/HashTable_PrefixSum | 1 |
-| Array/TwoPointers_BinarySearch_BitManipulation_PigeonholePrinciple_Floyd'sCycleFindingAlgorithm | 1 |
-| Array/Math_TwoPointers | 1 |
-| Math/BitManipulation | 1 |
+| Array | 57 |
+| Math | 6 |
+| String | 6 |
+| LinkedList | 6 |
+| BinarySearch | 2 |
+| Stack | 1 |
+| DynamicProgramming | 1 |
 <!-- AUTO-STATS:END -->
 ## 📁 Folder Structure
 
