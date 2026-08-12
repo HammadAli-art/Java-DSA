@@ -2,8 +2,10 @@ name: Evening Warning Check
 
 on:
   schedule:
-    # 18:00 UTC = 11:00 PM PKT
+    # 18:00 UTC = 11:00 PM PKT (primary)
     - cron: '0 18 * * *'
+    # 18:20 UTC = backup, in case the primary run is delayed/skipped by GitHub
+    - cron: '20 18 * * *'
   workflow_dispatch: {}
 
 jobs:

@@ -2,8 +2,10 @@ name: Final Daily Summary
 
 on:
   schedule:
-    # 19:00 UTC = 12:00 AM (midnight) PKT
+    # 19:00 UTC = 12:00 AM (midnight) PKT (primary)
     - cron: '0 19 * * *'
+    # 19:20 UTC = backup, in case the primary run is delayed/skipped by GitHub
+    - cron: '20 19 * * *'
   workflow_dispatch: {}
 
 jobs:
