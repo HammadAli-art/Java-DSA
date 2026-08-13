@@ -62,11 +62,11 @@ Every solved problem is committed here with clean, commented code — tracking n
 
 ## 📈 Auto-Generated Progress
 <!-- AUTO-STATS:START -->
-**Total Solved:** 81
+**Total Solved:** 82
 
 | Topic | Solved |
 |-------|--------|
-| Array | 59 |
+| Array | 60 |
 | Math | 6 |
 | String | 6 |
 | LinkedList | 6 |
