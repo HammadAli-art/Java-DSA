@@ -13,16 +13,16 @@
 
 ---
 
-## 📌 About This Repo
+##  About This Repo
 
 This repository is my personal log of solving **LeetCode problems daily** as I learn **Data Structures & Algorithms (DSA) using Java**.
-Every solved problem is committed here with clean, commented code — tracking not just the solution, but the *approach*, *time complexity*, and *lessons learned*.
+Every solved problem is *committed here*. 
 
-> 🎯 **Goal:** Build strong problem-solving skills, master core DSA concepts, and stay consistent through daily practice.
+>  **Goal:** Build strong problem-solving skills, master core DSA concepts, and stay consistent through daily practice.
 
 ---
 
-## 📊 LeetCode Stats
+##  LeetCode Stats
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/Hammad-Babar?theme=dark&font=baloo2&ext=heatmap" alt="LeetCode Stats" />
@@ -91,17 +91,16 @@ Java-DSA/
 │   └── README.md
 ├── Graphs/
 │   └── ...
-└── README.md   ← (you are here)
+└── README.md  
 
 ```
 
 Each folder contains:
 - 📄 Solution files (named after the problem, in Java)
-- 📝 Notes on approach, intuition, and complexity (in that folder's README or as code comments)
 
 ---
 
-## 🚀 Why I'm Doing This
+##  Why I'm Doing This
 
 * Build a rock-solid foundation in problem solving
 * Prepare for technical interviews
@@ -110,7 +109,7 @@ Each folder contains:
 
 ---
 
-## 🤝 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
@@ -124,8 +123,8 @@ Each folder contains:
 
 <div align="center">
 
-⭐ **If you find this repo useful for your own DSA prep, consider giving it a star!**
+ **If you find this repo useful for your own DSA prep, consider giving it a star!**
 
-*"Consistency beats intensity."* 💪
+*"Consistency beats intensity."* 
 
 </div>
