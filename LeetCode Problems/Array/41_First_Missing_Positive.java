@@ -1,13 +1,18 @@
 class Solution {
     public int firstMissingPositive(int[] nums) {
-        boolean present[] = new boolean[nums.length + 1];
+        int pointer = 0;
         int answer = 1;
-        for (int i = 0; i < nums.length; i++) {
-            if (nums[i] > 0 && nums[i] <= nums.length)
-                present[nums[i]] = true;
+        while (pointer < nums.length) {
+            if (nums[pointer] > 0 && nums[pointer] <= nums.length && nums[pointer] != nums[nums[pointer] - 1]) {
+                int temp = nums[pointer];
+                nums[pointer] = nums[temp - 1];
+                nums[temp - 1] = temp;
+            } else {
+                pointer++;
+            }
         }
         for (int i = 0; i < nums.length; i++) {
-            if (present[answer] == true) {
+            if (nums[i] == answer) {
                 answer++;
             } else {
                 return answer;
