@@ -39,22 +39,22 @@ Every solved problem is *committed here*.
 - [x] Array
 - [x] String
 - [x] Linked List
-- [ ] Matrix
+- [x] Matrix
 - [ ] Trees
 - [ ] Graph
 - [x] Stack / Queue
 - [ ] Heap
 - [ ] Trie
-- [ ] Hashing
+- [x] Hashing
 - [x] Dynamic Programming
-- [ ] Backtracking
-- [ ] Greedy
+- [x] Backtracking
+- [x] Greedy
 - [x] Binary Search
 - [x] Math
-- [ ] Bit Manipulation
-- [ ] Sliding Window
-- [ ] Two Pointers
-- [ ] Sorting
+- [x] Bit Manipulation
+- [x] Sliding Window
+- [x] Two Pointers
+- [x] Sorting
 <!-- AUTO-TOPICS:END -->
 
 </details>
@@ -63,17 +63,17 @@ Every solved problem is *committed here*.
 
 ## 📈 Auto-Generated Progress
 <!-- AUTO-STATS:START -->
-**Total Solved:** 91
+**Total Solved:** 92
 
 | Topic | Solved |
 |-------|--------|
-| Array | 66 |
+| Array | 67 |
 | Math | 9 |
-| LinkedList | 6 |
 | String | 6 |
+| LinkedList | 6 |
 | BinarySearch | 2 |
-| DynamicProgramming | 1 |
 | Stack | 1 |
+| DynamicProgramming | 1 |
 <!-- AUTO-STATS:END -->
 ## 📁 Folder Structure
 
