@@ -76,8 +76,6 @@ Every solved problem is *committed here*.
 | Stack | 1 |
 <!-- AUTO-STATS:END -->
 
-```
-
 Each folder contains:
 - 📄 Solution files (named after the problem, in Java)
 
