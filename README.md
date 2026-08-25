@@ -8,7 +8,7 @@
 [![GitHub Streak](https://img.shields.io/badge/GitHub-Daily%20Commits-black?style=for-the-badge&logo=github)](https://github.com/HammadAli-art/Java-DSA)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hammad-babar-203066351/)
 [![Java](https://img.shields.io/badge/Language-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.geeksforgeeks.org/dsa/dsa-tutorial-learn-data-structures-and-algorithms/)
-[![Google Sheets](https://img.shields.io/badge/Google%20Sheets-Progress%20Tracker-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)](https://docs.google.com/spreadsheets/d/1xKRTyWDceOnc_BgwjGpS6dRot_CVoU9c_OWSzeRtxA0/edit?gid=0#gid=0)
+[![Google Sheets](https://img.shields.io/badge/Google%20Sheets-Progress%20Tracker-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)](https://docs.google.com/spreadsheets/d/1yHfi7G8ZEOmpbP4bmqgcb8TkAMOg_N8I7F3pMpL_HJ0/edit?gid=1736506166#gid=1736506166)
 
 </div>
 
@@ -75,24 +75,6 @@ Every solved problem is *committed here*.
 | DynamicProgramming | 1 |
 | Stack | 1 |
 <!-- AUTO-STATS:END -->
-## 📁 Folder Structure
-
-```
-
-Java-DSA/
-│
-├── Arrays/
-│   ├── TwoSum.java
-│   └── README.md
-├── LinkedList/
-│   ├── ReverseLinkedList.java
-│   └── README.md
-├── DynamicProgramming/
-│   ├── ClimbingStairs.java
-│   └── README.md
-├── Graphs/
-│   └── ...
-└── README.md  
 
 ```
 
