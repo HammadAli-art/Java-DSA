@@ -1,20 +1,16 @@
 class Solution {
     public int findNumbers(int[] nums) {
-        int evenCount = 0;
-        for (int i : nums) {
-            int digitCount = 0;
-            if (i == 0) {
-                digitCount = 1;
-            } else {
-                while (i != 0) {
-                    i /= 10;
-                    digitCount++;
-                }
+        int totalEvenCounts = 0;
+        for (int i = 0; i < nums.length; i++) {
+            int count = 0;
+            while (nums[i] != 0) {
+                nums[i] /= 10;
+                count++;
             }
-            if (digitCount % 2 == 0) {
-                evenCount++;
+            if (count % 2 == 0) {
+                totalEvenCounts++;
             }
         }
-        return evenCount;
+        return totalEvenCounts;
     }
 }
