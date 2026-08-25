@@ -69,11 +69,11 @@ Every solved problem is *committed here*.
 |-------|--------|
 | Array | 75 |
 | Math | 9 |
-| String | 6 |
 | LinkedList | 6 |
+| String | 6 |
 | BinarySearch | 2 |
-| Stack | 1 |
 | DynamicProgramming | 1 |
+| Stack | 1 |
 <!-- AUTO-STATS:END -->
 ## 📁 Folder Structure
 
