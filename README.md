@@ -36,25 +36,25 @@ Every solved problem is *committed here*.
 <summary><b>Click to expand topic checklist</b></summary>
 
 <!-- AUTO-TOPICS:START -->
-- [x] Array
-- [x] String
-- [x] Linked List
-- [x] Matrix
+- [ ] Array
+- [ ] String
+- [ ] Linked List
+- [ ] Matrix
 - [ ] Trees
 - [ ] Graph
-- [x] Stack / Queue
+- [ ] Stack / Queue
 - [ ] Heap
 - [ ] Trie
-- [x] Hashing
-- [x] Dynamic Programming
-- [x] Backtracking
-- [x] Greedy
-- [x] Binary Search
-- [x] Math
-- [x] Bit Manipulation
-- [x] Sliding Window
-- [x] Two Pointers
-- [x] Sorting
+- [ ] Hashing
+- [ ] Dynamic Programming
+- [ ] Backtracking
+- [ ] Greedy
+- [ ] Binary Search
+- [ ] Math
+- [ ] Bit Manipulation
+- [ ] Sliding Window
+- [ ] Two Pointers
+- [ ] Sorting
 <!-- AUTO-TOPICS:END -->
 
 </details>
